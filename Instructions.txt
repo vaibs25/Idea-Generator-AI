@@ -1,0 +1,13 @@
+Step-1 Create a new folder named Study Buddy AI
+Step-2 Create a virtual environment ---->  python -m venv myenv
+Step-3 Activate the virtual environment ----> myenv\Scripts\activate
+Step-4 Create a new file named requirements.txt
+Step-5 Now install all the required dependencies ----> pip install -r requirements.txt
+Step-6 Create .env file & write your groq API key
+Step-7 Now create app.py file and write the code
+Step-8 Run the file ----> python app.py 
+
+After getting the user prompt you can ask any Idea you want to generate
+1. What is a good startup idea for sustainable living?
+2. Suggest a startup idea related to health and wellness.
+3. What’s a startup idea for helping people learn a new language?
